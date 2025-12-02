@@ -48,5 +48,5 @@ Press **q** to close the window.
 * Add screenshot or face capture feature
 
 ---
-
-
+### NOTE
+in there are note directy use to there code to open with VS code and use 
